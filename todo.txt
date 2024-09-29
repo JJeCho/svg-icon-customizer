@@ -1,0 +1,7 @@
+-   Add gradient support 
+-   Add transform support 
+-   Add path support
+-   Add text support
+-   Add draw area/image resizing functionality
+-   Undo
+-   Delete/Remove/Erase
