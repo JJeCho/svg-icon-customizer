@@ -72,7 +72,7 @@ const HomePage = () => {
               style={{
                 left: shapes[0].left,
                 top: shapes[0].top,
-                width: shapes[0].size,
+                width: shapes[0].size, 
                 height: shapes[0].size,
               }}
             >
